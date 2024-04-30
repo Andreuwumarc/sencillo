@@ -18,5 +18,6 @@
         <h1>Buenos dias</h1>
         <h1>Buenas tardes</h1>
         <h1>Buenas </h1>
+        <h1>Buen </h1>
     </body>
 </html>
