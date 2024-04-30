@@ -15,7 +15,7 @@
         <h1>PROBANDO</h1>
         <tr>
                     <td>Nombre:</td>
-                    <td><INPUT TYPE="Text" NAME="txtNom" SIZE="20" ></td>
+                    <td><INPUT TYPE="Text" NAME="txtNom" SIZE="50" ></td>
                 </tr>
     </body>
 </html>
