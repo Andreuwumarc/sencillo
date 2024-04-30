@@ -12,6 +12,10 @@
         <title>JSP Page</title>
     </head>
     <body>
+        
         <h1>PROBANDO</h1>
+        <h1>Buenas noches</h1>
+        <h1>Buenos dias</h1>
+        <h1>Buenas tardes</h1>
     </body>
 </html>
