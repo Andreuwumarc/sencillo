@@ -15,14 +15,21 @@
         
         <h1>PROBANDO</h1>
         <tr>
-                    <td>Nombre:</td>
-                    <td><INPUT TYPE="Text" NAME="txtNom" SIZE="50" ></td>
-                </tr>
+            <td>Nombre:</td>
+            <td><INPUT TYPE="Text" NAME="txtNom" SIZE="50" ></td>
+        </tr>
         <h1>Buenas noches</h1>
         <h1>Buenos dias</h1>
         <h1>Buenas tardes</h1>
         <h1>Buenas </h1>
         <h1>Buen </h1>
         <h2>Acepté los dos cambios </h2>
+        
+        
+      
+        <!-- Comentaio HTML-->
+        <%-- Comentario JSP--%>
+        <h1><="Hola mundo..."%></h1>
+    
     </body>
 </html>
